@@ -12,14 +12,7 @@ import retrofit2.http.Url;
 import android.content.res.Resources;
 
 public class YoutubeAPI {
-    // https://www.googleapis.com/youtube/v3/
-    // search?
-    // part=snippet&
-    // maxResults=40&
-    // order=relevance&
-    // q=Wieght Training workout&
-    // type=video&
-    // key=AIzaSyDYpic7fNdBTwnXsfImgjjiQLDgntuaDUY
+    -
 
     //  'https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=40&order=relevance&q=yoga%20workout&type=video&key=[YOUR_API_KEY]'
 
